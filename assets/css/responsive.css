@@ -152,9 +152,9 @@
 .count-down-clock{
 	margin: 0 10px;
 }
-.nav-tabs>.event-content>a {
+/* .nav-tabs>.event-content>a {
     margin-right: 14px;
-   }
+   } */
    .hero-slider .slide-inner .slide-content {
     border-top-right-radius: 40px;
     border-bottom-left-radius: 40px;
@@ -211,7 +211,7 @@
     width: 90px;
     height: 90px;
     font-size: 14px;
-    margin-right: 10px;
+    /* margin-right: 10px; */
     line-height: 40px;
 }
 .event-text {
