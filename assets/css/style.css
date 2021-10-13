@@ -3201,13 +3201,16 @@ option {
   background: #f8f8f8;
   padding-top: 80px;
 }
+.texto-blanco {
+  color: white;
+}
 
 .gift-item {
     padding: 70px 0;
 }
 
 .owl-carousel .owl-item img {
-    width: 95%;
+    width: 100%;
 }
 .Gift-area p {
     max-width: 640px;
